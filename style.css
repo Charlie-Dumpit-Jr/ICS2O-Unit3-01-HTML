@@ -15,3 +15,18 @@
   font-size: 150%;
   color: pink;
 }
+.Food {
+  font-family: sans-serif;
+  font-size: 24px;
+  color: indigo;
+}
+.Best { 
+  border-style: solid;
+  border-color: red;
+  font-size: 28px;
+  color: yellow;
+ }
+ .Countries {
+  border-style: solid;
+  border-color: blue;
+ }
